@@ -1,5 +1,11 @@
-# Medium-Clone /n
-#Frontend in React /n
-#Backend in HONO js 
-#prisma ORM
-#Database Postgress
+# Medium-Clone
+
+## Frontend in React
+
+## Backend in HONO js
+
+## Prisma ORM
+
+## Database Postgres
+
+## Typescript as a language
